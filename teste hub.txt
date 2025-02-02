@@ -1,0 +1,6 @@
+local startergui = game.StarterGui
+local framecriado = Instance.new("Frame")
+
+framecriado.Parent = startergui
+framecriado.Visible = true
+framecriado.BackgroundColor = Color3.new(0.498039, 0.498039, 0.498039)
